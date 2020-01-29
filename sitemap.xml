@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//localhost:42439/</loc>
+    <loc>fillthegap.github.io/</loc>
   </url>
   
   <url>
-    <loc>//localhost:42439/categories/</loc>
+    <loc>fillthegap.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>//localhost:42439/tags/</loc>
+    <loc>fillthegap.github.io/tags/</loc>
   </url>
   
 </urlset>
