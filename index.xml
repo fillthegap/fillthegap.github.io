@@ -5,7 +5,7 @@
     <link>https://baloochi.me/</link>
     <description>Recent content on Alireza Baloochi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;License&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://baloochi.me/index.xml" rel="self" type="application/rss+xml" />
@@ -38,9 +38,16 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://baloochi.me/about/</guid>
-      <description>Works:
- Mentor at Google Code-in 2019 System Administrator at Tehran Internet Co. Exhibitor at Dubai Knowledge and Human Development Authority Ranked 5th in the National Cyber Olympiad Fedora Project Contributor Certified Online Tutor and E-lecture Designer by HBMSU  Intrests:
- Swimming &amp;amp; biking Writing (Essay, Documentation) Coding &amp;amp; Designing Photography  </description>
+      <description>Works:  Mentor at Google Code-in 2019 System Administrator at Tehran Internet Co. Exhibitor at Dubai Knowledge and Human Development Authority Ranked 5th in the National Cyber Olympiad Fedora Project Contributor Certified Online Tutor and E-lecture Designer by HBMSU  Intrests:  Swimming &amp;amp; biking Writing (Essay, Documentation) Coding &amp;amp; Designing Photography  Languages:  Persian (Native) English (Fluent) Arabic (familiar) German (Familiar)  You can find more info about me in my Linkedin, I post updates there.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://baloochi.me/photographs/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://baloochi.me/photographs/</guid>
+      <description>Works:  Mentor at Google Code-in 2019 System Administrator at Tehran Internet Co. Exhibitor at Dubai Knowledge and Human Development Authority Ranked 5th in the National Cyber Olympiad Fedora Project Contributor Certified Online Tutor and E-lecture Designer by HBMSU  Intrests:  Swimming &amp;amp; biking Writing (Essay, Documentation) Coding &amp;amp; Designing Photography  Languages:  Persian (Native) English (Fluent) Arabic (familiar) German (Familiar)  You can find more info about me in my Linkedin, I post updates there.</description>
     </item>
     
     <item>
