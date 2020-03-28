@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://baloochi.me/fr/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://baloochi.me/fr/categories/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,41 +29,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://baloochi.me/fr/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://baloochi.me/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://baloochi.me/posts/2014/09/creating-a-new-theme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://baloochi.me/fr/posts/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://baloochi.me/fr/categories/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://baloochi.me/fr/posts/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://baloochi.me/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://baloochi.me/fr/posts/"
                 />
   </url>
   
@@ -88,6 +53,11 @@
   </url>
   
   <url>
+    <loc>https://baloochi.me/fr/categories/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://baloochi.me/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -99,6 +69,21 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://baloochi.me/fr/posts/2014/04/introduction-aux-mod%C3%A8les-hugo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://baloochi.me/fr/posts/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://baloochi.me/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://baloochi.me/fr/posts/"
                 />
   </url>
   
