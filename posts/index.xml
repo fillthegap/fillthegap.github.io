@@ -54,6 +54,51 @@ Well Physically: certificate and a T-shirt but the most important ones are frien
         </item>
         
         <item>
+            <title>Google Code-in</title>
+            <link>https://baloochi.me/posts/2019/12/google-code-in/</link>
+            <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+            
+            <guid>https://baloochi.me/posts/2019/12/google-code-in/</guid>
+            <description>The Journey It goes back all the way in November when Fedora Project tweeted that they need some Mentors for Google Code-in. Initially I didn&amp;rsquo;t knew what it was but after a simple search it was clear that it was a competition ran by Google.
+So Google provided all the backend and platform for open source organizations, which mentors of each org then creates tasks in the system, which then the student solves.</description>
+            <content type="html"><![CDATA[<p><img src="/img/photo/codein.png" alt="main page" title="Main page"></p>
+<h2 id="the-journey">The Journey</h2>
+<p>It goes back all the way in November when Fedora Project tweeted that they need some Mentors for Google Code-in. Initially I didn&rsquo;t knew what it was but after a simple search it was clear that it was a competition ran by Google.<br>
+<br>
+So Google provided all the backend and platform for open source organizations, which mentors of each org then creates tasks in the system, which then the student solves. At the end students will be rewarded goodies all supplied by Google.<br>
+<br>
+<img src="/img/photo/codein2.jpg" alt="Short Description">
+<br>
+It was clear that Google wants to be viewed as open-source supporter and get some love from the students, then also hiring talented ones, so Google gets a big piece here. (Although Open-source orgs can show their stuff too but much less compared to Google)<br>
+<br>
+See some info <a href="https://opensource.google/community/">here</a></p>
+<h2 id="getting-chosen">Getting chosen</h2>
+<p>Well after filling the simple form I was contacted by Vipul, the event manager that I should hand some draft tasks for him to analyse so I kept working and used my Internship Knowledge to create some server tasks, which was accepted by Vipul and I was in.<br>
+After a while we were given the link to register as mentor and deploy our tasks with markdown, everythign was straight forward and documented</p>
+<p><img src="/img/photo/codein3.jpg" alt="My tasks"></p>
+<h2 id="competition">Competition</h2>
+<p>Initially Studnts grabbed and then abandoned my tasks, which I was told that this is regular because they are getting familiar with the UI.<br>
+<br>
+After reviewing some submissions I was worried that the tasks are way to easy, so I removed some Documentation tasks to minimize spams. Then Created LaTeX and NextCloud ones instead, which students loved.<br>
+<br>
+After a week the submission amount was enormus, I got 50 ish tasks to review everyday, it was convenient and boring at the same time.<br>
+<br>
+We had some conferences at the end to choose the winners with other mentors, and after announcing winners and runner-ups, the event was ended.<br>
+<br>
+The only student form my Area (UAE, Dubai) actually won the first place, but never went to the Google Headquarters because of the Covid-19 pandemic. (Believe me it is very sad.)</p>
+<h2 id="what-i-got">What I got</h2>
+<p><br>
+<strong>My Goodies aren&rsquo;t shipped yet this is what we are &ldquo;supposed&rdquo; to get</strong><br>
+<br>
+<img src="https://prajwalpatiltech.files.wordpress.com/2017/02/img_20170222_161114-e1487761420101.jpg?w=775" alt="rewards"><br>
+<br>
+Well Physically: certificate and a T-shirt but the most important ones are friends and the experience which will top everything here.</p>
+<p><a href="https://codein.withgoogle.com">check the website</a><br>
+<a href="https://medium.com/@p4r4xor/my-journey-at-google-code-in-paraxor-8492c4b15eda">paraxor&rsquo;s awesome event description for students</a></p>
+]]></content>
+        </item>
+        
+        <item>
             <title>Robocup Asia-Pacific @ Dubai</title>
             <link>https://baloochi.me/posts/2018/12/robocup-asia-pacific-dubai/</link>
             <pubDate>Sat, 08 Dec 2018 00:00:00 +0000</pubDate>
